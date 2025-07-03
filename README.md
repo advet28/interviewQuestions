@@ -7,8 +7,6 @@
 </a>
 </p>
 
-#### You can also find all 100 answers here 👉 [Devinterview.io - Java](https://devinterview.io/questions/web-and-mobile-development/java-interview-questions)
-
 <br>
 
 ## 1. Explain the main idea behind _Java_ and the concept of _Write Once, Run Anywhere_.
